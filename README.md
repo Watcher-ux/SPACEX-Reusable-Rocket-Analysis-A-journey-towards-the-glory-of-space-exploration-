@@ -28,4 +28,4 @@ Some starter code snippets originate from IBM course notebooks and appear here s
 This repository acts as a capstone showcase—demonstrating applied data science, storytelling through data, and the fascination of watching rockets master the art of coming home.
 
 ## NOTE: Here in all notebooks, the dataset links have been provided by @IBM SkillsNetwork, instead of using the links it is better to download and use the datasets provided within the repository(just configure the file path accordingly).
-## This project is a part of the IBM DataScience Capstone by Coursera
+## This project is a part of the IBM DataScience Capstone.
